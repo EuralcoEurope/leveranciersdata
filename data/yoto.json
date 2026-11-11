@@ -1,0 +1,4758 @@
+{
+ "leverancier": {
+  "id": "yoto",
+  "naam": "Henan YongTong Aluminium Co., Ltd (YOTO)",
+  "naam_origineel": "河南永通铝业有限公司",
+  "land": "CN",
+  "regio": "Henan (Gongyi)",
+  "valuta": null,
+  "incoterms": null,
+  "minimale_afname": null,
+  "levertijd": null,
+  "betaalvoorwaarden": null,
+  "certificeringen": null,
+  "adres": "河南省巩义市回郭镇工业园区 (Huiguo Town Industrial Park, Gongyi, Henan)",
+  "website": "www.yotoly.com",
+  "email": "yoto@yotoly.com; admin@yotoly.com; sales@defeller.com",
+  "telefoon": "+86 371 6426 5222 / 6426 3777 (binnenland); +86 371 5552 6225 (Zhengzhou export); +86 21 6075 0721 (Shanghai export)",
+  "export_afdelingen": "Zhengzhou: Henan Yongyang Imp. and Exp. Co., Ltd / Henan Wealthall International Trading Co., Ltd; Shanghai: Shanghai Defeller International Trading Co., Ltd",
+  "bron_bestand": "IMG_9632.JPG",
+  "bron_pagina": "achterkant",
+  "opmerking": "Boekje bevat geen prijzen, minimale afname, levertijden, certificaten of normen. Velden blijven leeg (niet bekend)."
+ },
+ "aanbod": [
+  {
+   "id": "yoto-plaat-1050",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "1050",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-1060",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "1060",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-1100",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-1200",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "1200",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-3003",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-3004",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "3004",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-3005",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "3005",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-3105",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "3105",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-5005",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "5005",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-5052",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "5052",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-5754",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "5754",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-5083",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "5083",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-6061",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "6061",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-plaat-8011",
+   "leverancier_id": "yoto",
+   "vorm": "plaat",
+   "vorm_origineel": "铝板 / Aluminum Sheet",
+   "legering": "8011",
+   "tempers": [
+    "O",
+    "T6",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112",
+    "H116",
+    "H321"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.0,
+     200.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 200.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9620.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering (bv. T6 alleen logisch bij 6061). Temper per legering bevestigen.",
+    "Temperlijst eindigt op 'etc.': andere tempers mogelijk.",
+    "Dikte in twee banden (0.2-4.0 en 4.0-200 mm): per band zijn breedte/lengte niet apart opgegeven."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-1050",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "1050",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-1060",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "1060",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-1100",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-1200",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "1200",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-3003",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-3005",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "3005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-3105",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "3105",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-5005",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "5005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-5052",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "5052",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-5754",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "5754",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-traanplaat-8011",
+   "leverancier_id": "yoto",
+   "vorm": "traanplaat",
+   "vorm_origineel": "铝花纹板 / Aluminum Checkered Plate",
+   "legering": "8011",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.3,
+     4.0
+    ],
+    [
+     4.0,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.3,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": 500,
+   "lengte_max_mm": 9000,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": null,
+   "extra": {
+    "patroon": "Big five bar, Small five bar, Two bar, Diamond",
+    "afwerking": "Mill finish, Bright finish"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9621.JPG",
+   "bron_pagina": "07-08",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "5083 staat NIET bij traanplaat in dit boekje (wel bij Euralco-praktijk gebruikelijk): bij leverancier navragen."
+   ]
+  },
+  {
+   "id": "yoto-coil-1050",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "1050",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-1060",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "1060",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-1100",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-1200",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "1200",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-3003",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-3004",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "3004",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-3005",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "3005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-3105",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "3105",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-5005",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "5005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-5052",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "5052",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-5754",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "5754",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-5083",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "5083",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-6061",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "6061",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-coil-8011",
+   "leverancier_id": "yoto",
+   "vorm": "coil",
+   "vorm_origineel": "铝卷 / Aluminum Coil",
+   "legering": "8011",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     4.0
+    ],
+    [
+     4.1,
+     10.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 10.0,
+   "breedte_min_mm": 500,
+   "breedte_max_mm": 2200,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9622.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Binnendiameter (ID) is een lijst van losse waarden, geen bereik."
+   ]
+  },
+  {
+   "id": "yoto-band-1050",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "1050",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-1060",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "1060",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-1100",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-1200",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "1200",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-3003",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-3004",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "3004",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-5005",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "5005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-5052",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "5052",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-band-8011",
+   "leverancier_id": "yoto",
+   "vorm": "band",
+   "vorm_origineel": "铝带 / Aluminum Strip",
+   "legering": "8011",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H16",
+    "H24",
+    "H18",
+    "H32",
+    "H112",
+    "T6"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     3.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 3.0,
+   "breedte_min_mm": 20,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150,
+    75
+   ],
+   "extra": {
+    "hoofdproducten": "1-, 3-, 5- en 8-serie"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9623.JPG",
+   "bron_pagina": "09-10",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-1050",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "1050",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-1060",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "1060",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-1100",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-3003",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-3004",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "3004",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-3005",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "3005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-3105",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "3105",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-5005",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "5005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-5052",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "5052",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-5754",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "5754",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-cirkel-5083",
+   "leverancier_id": "yoto",
+   "vorm": "cirkel",
+   "vorm_origineel": "铝圆片 / Aluminum Circle",
+   "legering": "5083",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32",
+    "H111",
+    "H112"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.25,
+     6.0
+    ]
+   ],
+   "dikte_min_mm": 0.25,
+   "dikte_max_mm": 6.0,
+   "breedte_min_mm": null,
+   "breedte_max_mm": null,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": 50,
+   "diameter_max_mm": 1200,
+   "binnendiameter_mm": null,
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9624.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-1050",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "1050",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-1060",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "1060",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-1100",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "1100",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-3003",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "3003",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-3004",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "3004",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-3005",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "3005",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-3105",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "3105",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-5005",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "5005",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-5052",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "5052",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gecoat_coil-5754",
+   "leverancier_id": "yoto",
+   "vorm": "gecoat_coil",
+   "vorm_origineel": "氟碳/聚酯预辊涂铝卷 / Pre-painted Aluminium Coil (PE/PVDF)",
+   "legering": "5754",
+   "tempers": [
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.5
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.5,
+   "breedte_min_mm": 50,
+   "breedte_max_mm": 1500,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    405,
+    505
+   ],
+   "extra": {
+    "coating": "PE / PVDF"
+   },
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9625.JPG",
+   "bron_pagina": "11-12",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Bovenrand van de foto is afgesneden; tabel zelf volledig leesbaar."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-1050",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "1050",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-1060",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "1060",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-1100",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-1200",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "1200",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-3003",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-3005",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "3005",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-3105",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "3105",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-gebosseleerde_coil-8011",
+   "leverancier_id": "yoto",
+   "vorm": "gebosseleerde_coil",
+   "vorm_origineel": "压花铝卷 / Embossed Aluminium Coil",
+   "legering": "8011",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18",
+    "H32"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.2,
+     2.0
+    ]
+   ],
+   "dikte_min_mm": 0.2,
+   "dikte_max_mm": 2.0,
+   "breedte_min_mm": 300,
+   "breedte_max_mm": 1250,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    405,
+    305,
+    150
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9626.JPG",
+   "bron_pagina": null,
+   "bron_pagina_noot": "paginanummer niet zichtbaar op foto",
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'."
+   ]
+  },
+  {
+   "id": "yoto-folie-8011",
+   "leverancier_id": "yoto",
+   "vorm": "folie",
+   "vorm_origineel": "铝箔 / Aluminum Foil",
+   "legering": "8011",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.006,
+     0.2
+    ]
+   ],
+   "dikte_min_mm": 0.006,
+   "dikte_max_mm": 0.2,
+   "breedte_min_mm": 40,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    305,
+    150,
+    75
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9627.JPG",
+   "bron_pagina": "13-14",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Rijen in de tabel zijn niet schoon gegroepeerd; alle vier legeringen delen dezelfde waarden."
+   ]
+  },
+  {
+   "id": "yoto-folie-3003",
+   "leverancier_id": "yoto",
+   "vorm": "folie",
+   "vorm_origineel": "铝箔 / Aluminum Foil",
+   "legering": "3003",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.006,
+     0.2
+    ]
+   ],
+   "dikte_min_mm": 0.006,
+   "dikte_max_mm": 0.2,
+   "breedte_min_mm": 40,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    305,
+    150,
+    75
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9627.JPG",
+   "bron_pagina": "13-14",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Rijen in de tabel zijn niet schoon gegroepeerd; alle vier legeringen delen dezelfde waarden."
+   ]
+  },
+  {
+   "id": "yoto-folie-1100",
+   "leverancier_id": "yoto",
+   "vorm": "folie",
+   "vorm_origineel": "铝箔 / Aluminum Foil",
+   "legering": "1100",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.006,
+     0.2
+    ]
+   ],
+   "dikte_min_mm": 0.006,
+   "dikte_max_mm": 0.2,
+   "breedte_min_mm": 40,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    305,
+    150,
+    75
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9627.JPG",
+   "bron_pagina": "13-14",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Rijen in de tabel zijn niet schoon gegroepeerd; alle vier legeringen delen dezelfde waarden."
+   ]
+  },
+  {
+   "id": "yoto-folie-1235",
+   "leverancier_id": "yoto",
+   "vorm": "folie",
+   "vorm_origineel": "铝箔 / Aluminum Foil",
+   "legering": "1235",
+   "tempers": [
+    "O",
+    "H12",
+    "H22",
+    "H14",
+    "H24",
+    "H18"
+   ],
+   "tempers_per_legering_bevestigd": false,
+   "tempers_open_einde": true,
+   "dikte_banden_mm": [
+    [
+     0.006,
+     0.2
+    ]
+   ],
+   "dikte_min_mm": 0.006,
+   "dikte_max_mm": 0.2,
+   "breedte_min_mm": 40,
+   "breedte_max_mm": 1550,
+   "lengte_min_mm": null,
+   "lengte_max_mm": null,
+   "diameter_min_mm": null,
+   "diameter_max_mm": null,
+   "binnendiameter_mm": [
+    508,
+    305,
+    150,
+    75
+   ],
+   "extra": null,
+   "maatwerk": "op klantspecificatie (按客户要求生产各种规格)",
+   "beschikbaarheid": "op bestelling (aanname: boekje noemt geen voorraad)",
+   "prijs": null,
+   "prijs_valuta": null,
+   "prijsbasis": null,
+   "minimale_afname": null,
+   "levertijd": null,
+   "norm": null,
+   "bron_bestand": "IMG_9627.JPG",
+   "bron_pagina": "13-14",
+   "bron_pagina_noot": null,
+   "betrouwbaarheid": "hoog (tabel scherp gelezen)",
+   "vlaggen": [
+    "Temperlijst geldt voor de hele tabel, niet per legering.",
+    "Temperlijst eindigt op 'etc.'.",
+    "Rijen in de tabel zijn niet schoon gegroepeerd; alle vier legeringen delen dezelfde waarden."
+   ]
+  }
+ ]
+}
